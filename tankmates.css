@@ -16,6 +16,7 @@
 .preview-text {
   padding: 20px;
   font-family: 'Balsamiq Sans', cursive;
+
 }
 .mustbestyled {
   font-family: 'Balsamiq Sans', cursive;
@@ -173,4 +174,15 @@ footer .column i + i {
   background: rgba(0, 0, 0, 0.815);
   z-index: 9999;
   transition: all 1.5s ease;
+}
+
+.checked {
+  color: orange;
+}
+
+.hiding-lok {
+  font-size: 1.5em;
+
+  text-decoration: underline blue;
+  text-decoration-style: bold;
 }
